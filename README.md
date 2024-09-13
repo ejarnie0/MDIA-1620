@@ -1,6 +1,8 @@
 ### MDIA-1620 
+---
+Emma Jennings
+---
 This is *so* **epic**
-
 ~~help 😭~~
 ------
 3 aha moments: 
@@ -14,3 +16,5 @@ This is *so* **epic**
 ----
 1 Word for how you're feeling 😴
 >1. ~~Tired~~ Uncertain
+------
+![sam which](https://www.onceuponachef.com/images/2024/01/Grilled-Cheese-6-760x1140.jpg)
