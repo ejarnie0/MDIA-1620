@@ -28,4 +28,4 @@ console.log(`My horses' names are ${horseName} and ${secondHorseName} and they'r
 //LAB for lesson_04
 let horseNickname = "Jen";
 console.log(`My horses' names are ${horseNickname} and he is ${horseAge * 3}`);
-console.log(`If you stay at our stable for 3 months you would save ${(STABLE_MONTHLY_FEE * 3) * .1}`);
+console.log(`If you stay at our stable for 3 months you would save ${(STABLE_MONTHLY_FEE * 3) * .1} dollars!`);
