@@ -23,3 +23,9 @@ console.log(80085 + "teehee"); //type corcion
 console.log("2" + "turnt");
 console.log(420000/1000);
 console.log(`My horses' names are ${horseName} and ${secondHorseName} and they're both ${horseAge * 3}`); //concatenation
+
+
+//LAB for lesson_04
+let horseNickname = "Jen";
+console.log(`My horses' names are ${horseNickname} and he is ${horseAge * 3}`);
+console.log(`If you stay at our stable for 3 months you would save ${(STABLE_MONTHLY_FEE * 3) * .1}`);
